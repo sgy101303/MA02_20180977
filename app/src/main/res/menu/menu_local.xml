@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_all"
+        android:title="전체보기" />
+    <item android:title="시/구 선택">
+        <menu>
+            <item
+                android:id="@+id/seoul"
+                android:title="서울특별시" />
+            <item
+                android:id="@+id/incheon"
+                android:title="인천광역시" />
+            <item
+                android:id="@+id/daejeon"
+                android:title="대전광역시" />
+            <item
+                android:id="@+id/gwangju"
+                android:title="광주광역시" />
+            <item
+                android:id="@+id/daegu"
+                android:title="대구광역시" />
+            <item
+                android:id="@+id/ulsan"
+                android:title="울산광역시" />
+            <item
+                android:id="@+id/busan"
+                android:title="부산광역시" />
+            <item
+                android:id="@+id/gyeonggi"
+                android:title="경기도" />
+            <item
+                android:id="@+id/gangwon"
+                android:title="강원도" />
+            <item
+                android:id="@+id/sejong"
+                android:title="세종특별자치시" />
+            <item
+                android:id="@+id/chungnam"
+                android:title="충청남도" />
+            <item
+                android:id="@+id/chungbuk"
+                android:title="충청북도" />
+            <item
+                android:id="@+id/jeonnam"
+                android:title="전라남도" />
+            <item
+                android:id="@+id/jeonbuk"
+                android:title="전라북도" />
+            <item
+                android:id="@+id/gyeongnam"
+                android:title="경상남도" />
+            <item
+                android:id="@+id/gyeongbuk"
+                android:title="경상북도" />
+            <item
+                android:id="@+id/jeju"
+                android:title="제주특별자치도" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/menu_local_explain"
+        android:title="도움말" />
+</menu>

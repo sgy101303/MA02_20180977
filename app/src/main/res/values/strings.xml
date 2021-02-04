@@ -1,0 +1,126 @@
+<resources>
+    <string name="app_name">MA02_20180977</string>
+    <!--    <string name="api_key">AIzaSyDcqtYYo3SAmFstBiuLY_UXpsLe7mpskMI</string>-->
+    <string name="api_key">AIzaSyB8kMaz_i3ioTnhjjvFequL5OFYPii05f8</string>
+    <!--    <string name="api_key">AIzaSyDrCQF76c9MxlZvj4H7u5KKsivX7Hc9VbA</string>-->
+    <string name="init_lat">37.606537</string>
+    <string name="init_lng">127.041758</string>
+    <string name="CHANNEL_ID">MY_REVIEW</string>
+    <string name="CHANNEL_ID2">MY_ALARM</string>
+    <string name="CHANNEL_ID3">MY_ALARM2</string>
+    <string name="api_url_portal_QN">http://apis.data.go.kr/B552657/HsptlAsembySearchService/getHsptlMdcncListInfoInqire?serviceKey=KnPhKkPEtc2Zwh4NV65V4%2BScT%2FKvS6d3ik4EBALP4Wp7mRl6Alj90zUMNon1obKtA%2FiFf%2BxqIgqmhlc2BFPaFQ%3D%3D&amp;ORD=NAME&amp;numOfRows=100&amp;QN=</string>
+    <string name="api_url_portal_Q0">http://apis.data.go.kr/B552657/HsptlAsembySearchService/getHsptlMdcncListInfoInqire?serviceKey=KnPhKkPEtc2Zwh4NV65V4%2BScT%2FKvS6d3ik4EBALP4Wp7mRl6Alj90zUMNon1obKtA%2FiFf%2BxqIgqmhlc2BFPaFQ%3D%3D&amp;ORD=NAME&amp;numOfRows=100&amp;Q0=</string>
+    <string name="api_url_portal">http://apis.data.go.kr/B552657/HsptlAsembySearchService/getHsptlMdcncListInfoInqire?serviceKey=KnPhKkPEtc2Zwh4NV65V4%2BScT%2FKvS6d3ik4EBALP4Wp7mRl6Alj90zUMNon1obKtA%2FiFf%2BxqIgqmhlc2BFPaFQ%3D%3D&amp;ORD=NAME&amp;numOfRows=100</string>
+    <string name="portal_key">KnPhKkPEtc2Zwh4NV65V4%2BScT%2FKvS6d3ik4EBALP4Wp7mRl6Alj90zUMNon1obKtA%2FiFf%2BxqIgqmhlc2BFPaFQ%3D%3D</string>
+    <!--    <string name="api_url_local">https://openapi.naver.com/v1/search/local.xml?display=10&amp;start=1&amp;sort=random&amp;query=</string>-->
+    <!--    <string name="api_url_img">https://openapi.naver.com/v1/search/image.xml?display=1&amp;start=1&amp;sort=sim&amp;query=</string>-->
+    <!--   <string name="api_url">https://openapi.naver.com/v1/search/local.xml?display=50&amp;start=1&amp;query=</string> -->
+    <string name="client_id">VKSVnpcegm4fy_YNQ98A</string>
+    <string name="client_secret">tdGRhaU3At</string>
+    <string name="explainText">(병원 이름에 포함되지 않을 경우 검색이 불가할 수 있음)</string>
+    <string name="btnCancelText">&lt;&lt; 이전 단계로</string>
+    <string name="all">모든 병원의 검색결과를 보고싶으신가요?\n\n오른쪽 하단의 지역 검색하기 버튼을 눌러주세요.</string>
+    <string name="eye">안과는 눈에 관계된 질환을 연구하고 치료합니다\n\n\n
+        진료 질병\n\n
+        다래끼, 건성안, 눈알 돌출, 결막염, 각막 혼탁, 공막염, 백내장, 포도막염, 녹내장, 근시, 난시, 원시 등\n\n\n
+        주요 시술\n\n
+        눈꺼풀 성형술, 각막 이식, 백내장 수술, 유리체 절제술, 공막돌륭슐, 사시 수술, 굴절교정 수술 등</string>
+    <string name="surgery">외과는 주로 수술로 환자의 질병이나 상태를 치료합니다.\n\n\n
+        진료 질병\n\n
+        간암, 간부전, 췌장염, 위암, 대장암, 유방암, 충수돌기염, 하지정맥류, 혈전증, 선천성 횡격막 탈장 등\n\n\n
+        주요 시술\n\n
+        절개 및 봉합술, 비위관 삽입, 흉관 삽입, 간이식, 담낭절제술, 담도 재건술, 탈장수술, 유문근 절제술 등\n\n\n
+        주요검사\n\n
+        위내시경, 대장내시경, 항문기능 검사, 세침 흡인세포 검사, 절제 생검, 유방 촬영(mammography, 맘모그라피), 유방 초음파,
+         발목-상완 혈압지수(ankle-brachial pressure index, 발목의 수축기 혈압을 팔의 수축기 혈압으로 나눈 수치로 말초동맥질환 진단에 쓰임), 듀플렉스(Duplex) 스캔, 진단적 복강세척술, 복강경 검사
+    </string>
+    <string name="internal">내과는 일반적으로 내장에 원인이 있는 질환을 다룹니다.\n주로 약물 치료를 합니다.\n\n\n
+        진료 질병\n\n
+        위암, 심근경색, 폐암, 당뇨병, 신부전, 감염질환, 천식, 류마티스성 관절염 등
+    </string>
+    <string name="otolaryngology">이비인후과는 귀, 코, 목(인두, 후두)에 관련된 질환에 대한 내과적 및 외과적 치료를 합니다.\n\n\n
+        진료 질병\n\n
+        선천성 외이도 폐쇄증, 후각 상실증, 미각 상실증, 알레르기 비염, 비골 골절, 비인두암, 급성 편도염, 설소대단축증 등\n\n\n
+        주요 시술\n\n
+        전이개 누공 절제술, 고막 절개술 및 환기관 삽입술, 등자골 수술, 유양동 절제술, 안면신경 연결술 등\n\n\n
+        주요검사\n\n
+        순음 청력 검사,자발 안진, 주시 안진, 두위 안진, 전기 성문도 검사, 비강도 검사, 후각 검사, 미각 검사
+    </string>
+    <string name="dental">치과는 구강 위생 상태를 개선하고 건강한 치아를 유지하는데 필요한 진료를 합니다.\n\n\n
+        진료 질병\n\n
+        1) 치아 질환: 치아 우식증, 치수염, 치아 변색, 치아 파절, 시린이, 치근단염, 치근단농양 등\n
+        2) 잇몸 질환: 치은염, 치주염, 잇몸 비대, 사랑니 주위 염증 등\n
+        3) 부정교합: 덧니, 주걱턱이나 무턱, 돌출입, 구순구개열의 치열 이상 등\n
+        4) 결손치, 매복치, 치아의 맹출 장애, 치아 탈구 등\n
+        5) 턱관절 장애, 이갈이, 코골이, 입냄새, 만성 구강안면통증, 입안 점막 질환, 구강 건조증 등\n
+        6) 구순구개열(언청이), 선천적 및 후천적인 얼굴의 기형, 구강암, 안면골 골절, 구강과 치아의 발육성 장애 등\n\n\n
+        주요 시술\n\n
+        예방치료, 우식 와동 충전 치료, 신경 치료, 보철 치료, 심미 치료, 치열 교정 치료\n\n\n
+        주요검사\n\n
+        냉온자극 검사, 치수 생활력 검사, 타진 반응 검사, 치주낭 측정 검사, 방사선학적 검사, 치과용 단층촬영 등
+    </string>
+    <string name="oriental">한의원은 한방의료를 전문적으로 시행하는 의료기관입니다.\n\n한의원을 찾고싶으면 오른쪽 하단의 지역 검색하기 버튼을 눌러주세요.
+    </string>
+    <string name="plastic">성형외과는 신체 외부에 나타나는 선천성 기형, 또는 후천성 변형이나 결손을 그 기능과 모양에 있어서 정상 상태에 가깝도록 교정해 줍니다.\n\n
+        진료 질병\n
+        선천성 안면 기형, 사고 후 생긴 얼굴 손상, 종양으로 인한 두경부 손상, 얼굴 윤곽, 주름, 탈모\n\n
+        주요 시술\n
+        1) 흉터 성형술\n
+        2) 코 수술\n
+        코를 높이는 수술, 크기를 줄이거나 매부리코를 교정하는 수술, 넓은 콧망울을 줄여주는 수술, 휘었거나 삐뚤어진 코를 교정하는 수술 등이 있습니다.\n
+        수술 종류에 따라 연골, 실리콘, 고어텍스 등을 삽입하기도 하고, 조직을 절제해내기도 합니다.\n
+        3) 지방 흡입술\n
+        체형을 교정하는 한가지 방법으로 원하는 부위의 지방 세포를 제거합니다.\n
+        4) 당뇨발 치료\n
+        5) 유방 재건술\n
+        유방암으로 유방 절제술을 받은 환자에게 신체상 손상으로 인한 심리적인 충격과 위축을 완화시킬 수 있습니다.\n
+        환자의 상태와 병기를 고려하여 성형외과 의사가 수술 방법을 결정할 수 있는데,\n
+        크게 환자 자신의 조직(등 조직이나 아랫배 조직)을 이용하는 수술과 인공삽입물을 사용하는 수술법으로 나눌 수 있습니다.\n
+        6) 얼굴뼈 수술\n
+        턱끝 비대증이나 하악전돌증과 같은 주걱턱, 돌출입, 사각턱, 광대뼈 축소술 등이 해당합니다.\n
+        7) 액취증 치료 수술\n
+        8) 두개 조기 유합증(머리뼈 붙음증) 수술\n
+        머리뼈의 봉합선이 일찍 붙어 정상적인 성장을 하지 못하면,\n
+        붙어버린 뼈가 뇌를 압박하여 뇌가 성장하지 못하게 합니다.\n
+        조기에 적절히 수술하여 치료하면 머리와 얼굴의 변형을 최소화하고,\n
+        뇌 성장을 저해하는 요소를 제거할 수 있습니다.\n
+        9) 눈 성형 수술
+        쌍꺼풀 수술, 안검 성형술, 안검하수(눈꺼풀 처짐증) 수술 등\n
+        10) 구순구개열 수술\n
+        얼굴의 성장과 개인의 형태와 특성 에 따라 치료법이 달라질 수 있습니다.
+    </string>
+    <string name="mental">	정신 질환자들을 전문적으로 치료하여 사회에 복귀시키기 위한 병원입니다.
+        \n상담 혹은 치료를 원한다면 오른쪽 하단의 지역 검색하기 버튼을 눌러주세요.
+    </string>
+    <string name="dermatology">피부과는 피부 및 피부 부속기에 증상이 나타나는 모든 질환을 진료하고 치료합니다.\n\n
+        진료 질병\n
+        가려움증, 화상, 동상, 아토피 피부염, 두드러기, 여드름, 주근깨, 백반증, 피부경화증, 피부 종양 등\n\n
+        주요 시술\n
+        냉동 치료, 광선치료, 레이저 치료, 병변 내 주입술, 피부 외과 수술, 모발 이식, 보톡스 주사 및 필러 주사 등\n\n
+        주요검사\n
+        첩포검사, 광 검사, 세균 및 피부기생충 검사, KOH 도말 검사, 피부 생검 및 조직 표본 판독, 우드 등 검사 등
+    </string>
+    <string name="obgyn">산부인과는 여성의 생식 기능과 연관된 정상 생리 및 질병을 다룹니다.\n
+        임신, 출산, 산욕기를 다루는 산과와 부인병을 다루는 부인과로 나뉩니다.\n\n\n
+        진료 질병\n\n
+        1) 산과\n
+        임신 전 상담, 정상 임신 및 고위험 임신(임신성 당뇨, 임신중독증 등)의 관리, 출산 등\n
+        2) 일반부인과\n
+        골반염, 자궁내막증, 자궁근종, 자궁선근증, 난소낭종 등\n
+        3) 부인종양학과\n
+        자궁경부암, 자궁체부암, 난소암, 임신성 융모막성 질환 등을, 생식내분비학에서는 불임 시술, 폐경 여성의 호르몬요법, 골다공증 등 치료\n
+        4) 비뇨부인과\n
+        요실금, 자궁질 탈출증 등\n\n\n
+        주요 시술\n\n
+        정상 분만, 제왕절개 분만, 자궁 절제술, 자궁 부속기 제거술, 인공수정, 시험관 아기 시술, 요실금 수술 등\n\n\n
+        주요검사\n\n
+        산전 기본 검사, 초음파 검사, 임신성 당뇨 검사, 호르몬 검사, 골밀도 검사, 자궁경부 세포진 검사 등
+    </string>
+    <string name="kids">소아를 대상으로 치료연구 및 간호제공을 합니다.\n\n근처 소아과를 찾고싶다면 오른쪽 하단의 지역 검색하기 버튼을 눌러주세요.
+    </string>
+    <string name="write">직접 작성하신 카테고리입니다.\n정확한 정보가 나오지 않을 수 있는 점 참고해주세요.
+        \n그래도 검색을 원할 시 오른쪽 하단의 지역 검색하기 버튼을 눌러주세요.
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

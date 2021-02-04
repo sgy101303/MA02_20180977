@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_mapMia_hAddress"
+        android:title="병원 주소" />
+    <item
+        android:id="@+id/menu_mapMia_myAddress"
+        android:title="현재 내 주소" />
+    <item
+        android:id="@+id/menu_mapMia_explain"
+        android:title="도움말" />
+</menu>
